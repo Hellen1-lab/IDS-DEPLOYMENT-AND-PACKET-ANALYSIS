@@ -82,6 +82,9 @@ ii. Detect TCP SYN-only packets, the signature of a port scan.
 
 
    <img width="1360" height="728" alt="Screenshot 2026-09-27 084820" src="https://github.com/user-attachments/assets/4a416d58-a485-4d07-9e68-71a8c9c6bd6d" />
+
+<img width="1289" height="690" alt="Screenshot 2026-09-27 144253" src="https://github.com/user-attachments/assets/cd2476c7-7616-4a6b-8f98-e53fd89a697d" />
+
    
    <img width="1356" height="629" alt="Screenshot 2026-09-27 125734" src="https://github.com/user-attachments/assets/ce99181f-c09d-4008-a673-37f8a7297a8b" />
 
@@ -92,7 +95,6 @@ ii. Detect TCP SYN-only packets, the signature of a port scan.
 
 <img width="1266" height="648" alt="Screenshot 2026-09-27 144623" src="https://github.com/user-attachments/assets/5e6b90b0-8266-4041-996b-e65f4d915b0f" />
 
-<img width="1289" height="690" alt="Screenshot 2026-09-27 144253" src="https://github.com/user-attachments/assets/cd2476c7-7616-4a6b-8f98-e53fd89a697d" />
 
 
 NB: A source port,58890, has many destination ports. this is not normal and it is what a port scan looks like
